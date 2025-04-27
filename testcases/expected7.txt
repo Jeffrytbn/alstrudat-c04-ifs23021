@@ -1,0 +1,47 @@
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+Masukkan nama pelanggan: Masukkan no telp: Masukkan ID dokumen: Masukkan tanggal check-in (dd-MM-yyyy): Masukkan tanggal check-out (dd-MM-yyyy): Masukkan ID Reservasi: Daftar kamar:
+A101 | Suite | Rp500 / malam
+B202 | Deluxe | Rp300 / malam
+C303 | Standar | Rp200 / malam
+D404 | Executive | Rp400 / malam
+E505 | Presidential | Rp800 / malam
+F606 | Single | Rp150 / malam
+G707 | Double | Rp250 / malam
+H808 | Deluxe Garden | Rp350 / malam
+Masukkan kode kamar yang ingin dipesan: Tambahkan fasilitas tambahan? (Y/n): Reservasi berhasil ditambahkan!
+Detail:
+==============================
+Reservasi ID     : RES107
+Nama Pelanggan   : david
+Check-in         : 05-06-2025
+Check-out        : 10-06-2025
+Total Pembayaran : Rp675.0
+==============================
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+==============================
+Reservasi ID     : RES107
+Nama Pelanggan   : david
+Check-in         : 05-06-2025
+Check-out        : 10-06-2025
+Total Pembayaran : Rp675.0
+==============================
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+Sampai jumpa, king.

@@ -1,0 +1,55 @@
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+Masukkan nama pelanggan: Masukkan no telp: Masukkan ID dokumen: Masukkan tanggal check-in (dd-MM-yyyy): Masukkan tanggal check-out (dd-MM-yyyy): Masukkan ID Reservasi: Daftar kamar:
+A101 | Suite | Rp500 / malam
+B202 | Deluxe | Rp300 / malam
+C303 | Standar | Rp200 / malam
+D404 | Executive | Rp400 / malam
+E505 | Presidential | Rp800 / malam
+F606 | Single | Rp150 / malam
+G707 | Double | Rp250 / malam
+H808 | Deluxe Garden | Rp350 / malam
+Masukkan kode kamar yang ingin dipesan: Tambahkan fasilitas tambahan? (Y/n): F01 - WiFi (Rp50.0)
+F02 - Air Mineral (Rp20.0)
+F03 - Sarapan Pagi (Rp75.0)
+F04 - Setrika (Rp30.0)
+F05 - Layanan Laundry (Rp100.0)
+F06 - Akses Kolam Renang (Rp60.0)
+F07 - Parkir VIP (Rp40.0)
+F08 - Kursi Roda (Rp0.0)
+Masukkan kode fasilitas: Reservasi berhasil ditambahkan!
+Detail:
+==============================
+Reservasi ID     : RES108
+Nama Pelanggan   : heri
+Check-in         : 11-06-2025
+Check-out        : 14-06-2025
+Total Pembayaran : Rp800.0
+==============================
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+==============================
+Reservasi ID     : RES108
+Nama Pelanggan   : heri
+Check-in         : 11-06-2025
+Check-out        : 14-06-2025
+Total Pembayaran : Rp800.0
+==============================
+ MENU UTAMA 
+1. Lihat Semua Kamar
+2. Lihat Semua Fasilitas
+3. Buat Reservasi Baru
+4. Lihat Semua Reservasi
+0. Keluar
+Pilih menu: 
+Sampai jumpa, king.
