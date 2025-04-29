@@ -12,18 +12,18 @@ Struktur data yang digunakan adalah `LinkedList<T>` buatan sendiri.
 | No  | File                   | Deskripsi       |
 | --- | ---------------------- | --------------- |
 | 1   | App.java               | Bawaan          |
-| 2   | Data.java              | Membuat Sendiri |
-| 3   | DataFasilitas.java     | Membuat Sendiri |
-| 4   | DataHelper.java        | Membuat Sendiri |
-| 5   | DataKamar.java         | Membuat Sendiri |
+| 2   | Data.java              | Bawaan          |
+| 3   | DataFasilitas.java     | Bawaan          |
+| 4   | DataHelper.java        | Melengkapi      |
+| 5   | DataKamar.java         | Melengkapi      |
 | 6   | FasilitasBooking.java  | Membuat Sendiri |
 | 7   | FasilitasTambahan.java | Membuat Sendiri |
-| 8   | Kamar.java             | Membuat Sendiri |
+| 8   | Kamar.java             | Bawaan          |
 | 9   | KamarHelper.java       | Membuat Sendiri |
-| 10  | LinkedList.java        | Membuat Sendiri |
-| 11  | Pelanggan.java         | Membuat Sendiri |
-| 12  | Reservasi.java         | Membuat Sendiri |
-| 13  | ReservasiHelper.java   | Membuat Sendiri |
+| 10  | LinkedList.java        | Bawaan          |
+| 11  | Pelanggan.java         | Bawaan          |
+| 12  | Reservasi.java         | Melengkapi      |
+| 13  | ReservasiHelper.java   | Bawaan          |
 
 ## Test Cases
 
