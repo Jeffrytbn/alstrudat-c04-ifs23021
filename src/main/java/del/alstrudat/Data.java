@@ -1,5 +1,6 @@
 package del.alstrudat;
 
+
 public class Data {
   public static void initializeData(LinkedList<Kamar> semuaKamar, LinkedList<FasilitasTambahan> semuaFasilitas) {
       semuaKamar.add(new Kamar("A101", "Suite", 4, 500, "AC", "TV", "Mini Bar"));
@@ -14,3 +15,4 @@ public class Data {
       semuaFasilitas.add(new FasilitasTambahan("F04", "Layanan Laundry", 100));
   }
 }
+
